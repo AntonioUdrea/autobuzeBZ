@@ -1,0 +1,816 @@
+{
+  "CTP Arad": {
+  "215": {
+    "licensePlate": "AR 11 HCA",
+    "model": "BMC MidiLux L"
+  },
+  "216": {
+    "licensePlate": "AR 10 AOJ",
+    "model": "Irisbus Daily Way"
+  },
+  "217": {
+    "licensePlate": "AR 10 AOU",
+    "model": "Irisbus Daily Way"
+  },
+  "218": {
+    "licensePlate": "AR 10 AOV",
+    "model": "Irisbus Daily Way"
+  },
+  "219": {
+    "licensePlate": "AR 10 AOK",
+    "model": "Irisbus Daily Way"
+  },
+  "220": {
+    "licensePlate": "AR 10 AOM",
+    "model": "Irisbus Daily Way"
+  },
+  "222": {
+    "licensePlate": "AR 10 AOR",
+    "model": "Irisbus Daily Way"
+  },
+  "224": {
+    "licensePlate": "AR 10 AOY",
+    "model": "Irisbus Daily Way"
+  },
+  "225": {
+    "licensePlate": "AR 10 AOI",
+    "model": "Irisbus Daily Way"
+  },
+  "226": {
+    "licensePlate": "AR 10 AOX",
+    "model": "Irisbus Daily Way"
+  },
+  "228": {
+    "licensePlate": "AR 10 AON",
+    "model": "Irisbus Daily Way"
+  },
+  "229": {
+    "licensePlate": "AR 10 AOG",
+    "model": "Irisbus Daily Way"
+  },
+  "230": {
+    "licensePlate": "AR 10 AOH",
+    "model": "Irisbus Daily Way"
+  },
+  "231": {
+    "licensePlate": "AR 10 AOL",
+    "model": "Indcar Wing"
+  },
+  "233": {
+    "licensePlate": "AR 10 CYB",
+    "model": "BMC MidiLux L"
+  },
+  "234": {
+    "licensePlate": "AR 10 CYA",
+    "model": "BMC MidiLux L"
+  },
+  "235": {
+    "licensePlate": "AR 10 CXX",
+    "model": "BMC MidiLux L"
+  },
+  "236": {
+    "licensePlate": "AR 10 CXY",
+    "model": "BMC MidiLux L"
+  },
+  "346": {
+    "licensePlate": "AR 09 VRP",
+    "model": "Mercedes-Benz O405N2"
+  },
+  "400": {
+    "licensePlate": "AR 12 ZSJ",
+    "model": "King Long XMQ6111Y"
+  },
+  "401": {
+    "licensePlate": "AR 12 ZSF",
+    "model": "King Long XMQ6111Y"
+  },
+  "402": {
+    "licensePlate": "AR 12 ZSH",
+    "model": "King Long XMQ6111Y"
+  },
+  "403": {
+    "licensePlate": "AR 12 ZSB",
+    "model": "King Long XMQ6111Y"
+  },
+  "404": {
+    "licensePlate": "AR 12 ZSK",
+    "model": "King Long XMQ6111Y"
+  },
+  "405": {
+    "licensePlate": "AR 12 ZSE",
+    "model": "King Long XMQ6111Y"
+  },
+  "406": {
+    "licensePlate": "AR 12 ZSD",
+    "model": "King Long XMQ6111Y"
+  },
+  "407": {
+    "licensePlate": "AR 12 ZSC",
+    "model": "King Long XMQ6111Y"
+  },
+  "408": {
+    "licensePlate": "AR 12 ZSA",
+    "model": "King Long XMQ6111Y"
+  },
+  "409": {
+    "licensePlate": "AR 12 ZRZ",
+    "model": "King Long XMQ6111Y"
+  },
+  "421": {
+    "licensePlate": "AR 13 FTW",
+    "model": "Mercedes-Benz O345 Conecto I Ü"
+  },
+  "422": {
+    "licensePlate": "AR 13 FTW",
+    "model": "Mercedes-Benz O345 Conecto I Ü"
+  },
+  "423": {
+    "licensePlate": "AR 13 VDO",
+    "model": "Volvo 8700LE"
+  },
+  "425": {
+    "licensePlate": "AR 13 VDX",
+    "model": "Volvo 8700LE"
+  },
+  "426": {
+    "licensePlate": "AR 13 VDV",
+    "model": "Volvo 8700LE"
+  },
+  "428": {
+    "licensePlate": "AR 13 VDS",
+    "model": "Mercedes-Benz O530 Citaro"
+  },
+  "429": {
+    "licensePlate": "AR 13 VDT",
+    "model": "Mercedes-Benz O530 Citaro"
+  },
+  "432": {
+    "licensePlate": "AR 13 VOF",
+    "model": "Mercedes-Benz O530 Citaro"
+  },
+  "433": {
+    "licensePlate": "AR 13 ZGX",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "434": {
+    "licensePlate": "AR 13 ZGP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "435": {
+    "licensePlate": "AR 13 ZGZ",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "436": {
+    "licensePlate": "AR 13 ZGT",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "437": {
+    "licensePlate": "AR 13 ZGS",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "439": {
+    "licensePlate": "AR 13 ZGY",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "441": {
+    "licensePlate": "AR 13 ZGW",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "442": {
+    "licensePlate": "AR 13 ZWL",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "444": {
+    "licensePlate": "AR 14 EUX",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "446": {
+    "licensePlate": "AR 14 GCT",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "448": {
+    "licensePlate": "AR 14 GCV",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "449": {
+    "licensePlate": "AR 14 KBZ",
+    "model": "Anadolu Isuzu Citibus"
+  },
+  "450": {
+    "licensePlate": "AR 14 KCA",
+    "model": "Anadolu Isuzu Citibus"
+  },
+  "451": {
+    "licensePlate": "AR 14 KCB",
+    "model": "Anadolu Isuzu Citibus"
+  },
+  "452": {
+    "licensePlate": "AR 14 KCC",
+    "model": "Anadolu Isuzu Citibus"
+  },
+  "453": {
+    "licensePlate": "AR 14 KCD",
+    "model": "Anadolu Isuzu Citibus"
+  },
+  "454": {
+    "licensePlate": "AR 16 AHT",
+    "model": "Van Hool New A330"
+  },
+  "455": {
+    "licensePlate": "AR 16 ATP",
+    "model": "Van Hool New A330"
+  },
+  "456": {
+    "licensePlate": "AR 16 DPP",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "457": {
+    "licensePlate": "AR 16 DPT",
+    "model": "Van Hool New A330"
+  },
+  "458": {
+    "licensePlate": "AR 16 DPU",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "459": {
+    "licensePlate": "AR 16 DSN",
+    "model": "Van Hool New A330"
+  },
+  "460": {
+    "licensePlate": "AR 20 CTP",
+    "model": "TEMSA MD 9 LE electriCITY"
+  },
+  "461": {
+    "licensePlate": "AR 21 CTP",
+    "model": "TEMSA Avenue Electron"
+  },
+  "462": {
+    "licensePlate": "AR 22 CTP",
+    "model": "TEMSA Avenue Electron"
+  },
+  "463": {
+    "licensePlate": "AR 23 CTP",
+    "model": "TEMSA MD 9 LE electriCITY"
+  },
+  "464": {
+    "licensePlate": "AR 24 CTP",
+    "model": "TEMSA MD 9 LE electriCITY"
+  },
+  "465": {
+    "licensePlate": "AR 25 CTP",
+    "model": "TEMSA MD 9 LE electriCITY"
+  },
+  "466": {
+    "licensePlate": "AR 26 CTP",
+    "model": "TEMSA Avenue Electron"
+  },
+  "467": {
+    "licensePlate": "AR 27 CTP",
+    "model": "TEMSA Avenue Electron"
+  },
+  "468": {
+    "licensePlate": "AR 28 CTP",
+    "model": "TEMSA MD 9 LE electriCITY"
+  },
+  "469": {
+    "licensePlate": "AR 29 CTP",
+    "model": "TEMSA Avenue Electron"
+  },
+  "470": {
+    "licensePlate": "AR 16 MND",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "471": {
+    "licensePlate": "AR 16 MNE",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "472": {
+    "licensePlate": "AR 16 NSH",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "473": {
+    "licensePlate": "AR 16 NSI",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "474": {
+    "licensePlate": "AR 08 RTA",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "475": {
+    "licensePlate": "AR 16 NNP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "476": {
+    "licensePlate": "AR 16 UMF",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "477": {
+    "licensePlate": "AR 16 UMG",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "478": {
+    "licensePlate": "AR 16 UMH",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "479": {
+    "licensePlate": "AR 16 UMJ",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "480": {
+    "licensePlate": "AR 16 UMK",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "481": {
+    "licensePlate": "AR 16 VGD",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "482": {
+    "licensePlate": "AR 16 VGE",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "483": {
+    "licensePlate": "AR 16 VJG",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "484": {
+    "licensePlate": "AR 16 VJH",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "485": {
+    "licensePlate": "AR 16 VJI",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "486": {
+    "licensePlate": "AR 22 CLI",
+    "model": "Mercedes-Benz Citaro C2 G Hybrid"
+  },
+  "487": {
+    "licensePlate": "AR 17 GJE",
+    "model": "Pacific Tur / Idilis"
+  },
+  "488": {
+    "licensePlate": "AR 17 LBU",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "489": {
+    "licensePlate": "AR 17 LBV",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "491": {
+    "licensePlate": "AR 17 MAA",
+    "model": "VDL Citea II XLE-137.360"
+  },
+  "500": {
+    "licensePlate": "AR 35 CTP",
+    "model": "VDL Citea II LLE-120.225"
+  },
+  "501": {
+    "licensePlate": "AR 36 CTP",
+    "model": "VDL Citea II LLE-120.225"
+  },
+  "502": {
+    "licensePlate": "AR 37 CTP",
+    "model": "VDL Citea II LLE-120.225"
+  },
+  "503": {
+    "licensePlate": "AR 38 CTP",
+    "model": "VDL Citea II LLE-120.225"
+  },
+  "504": {
+    "licensePlate": "AR 39 CTP",
+    "model": "VDL Citea II LLE-120.225"
+  },
+  "505": {
+    "licensePlate": "AR 40 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "506": {
+    "licensePlate": "AR 41 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "507": {
+    "licensePlate": "AR 42 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "508": {
+    "licensePlate": "AR 43 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "509": {
+    "licensePlate": "AR 44 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "510": {
+    "licensePlate": "AR 45 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "511": {
+    "licensePlate": "AR 46 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "512": {
+    "licensePlate": "AR 47 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "513": {
+    "licensePlate": "AR 48 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "514": {
+    "licensePlate": "AR 49 CTP",
+    "model": "VDL Berkhof Ambassador 200 (ALE-120)"
+  },
+  "519": {
+    "licensePlate": "AR 50 CTP",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "520": {
+    "licensePlate": "AR 51 CTP",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "521": {
+    "licensePlate": "AR 52 CTP",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "522": {
+    "licensePlate": "AR 53 CTP",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "523": {
+    "licensePlate": "AR 54 CTP",
+    "model": "Mercedes-Benz O530 Citaro Facelift G"
+  },
+  "524": {
+    "licensePlate": "AR 09 WYX",
+    "model": "Ford Transit Custom"
+  },
+  "525": {
+    "licensePlate": "AR 56 CTP",
+    "model": "Karsan e-Jest"
+  },
+  "526": {
+    "licensePlate": "AR 57 CTP",
+    "model": "Karsan e-Jest"
+  },
+  "527": {
+    "licensePlate": "AR 58 CTP",
+    "model": "Karsan e-Jest"
+  },
+  "528": {
+    "licensePlate": "AR 59 CTP",
+    "model": "Karsan e-Jest"
+  },
+  "41": {
+    "licensePlate": "AR 00964",
+    "model": "DUEWAG GT6"
+  },
+  "42": {
+    "licensePlate": "AR 00966",
+    "model": "DUEWAG GT6"
+  },
+  "51": {
+    "licensePlate": "AR 00967",
+    "model": "DUEWAG GT8"
+  },
+  "71": {
+    "licensePlate": "AR 00968",
+    "model": "Lohner GT6"
+  },
+  "74": {
+    "licensePlate": "AR 00951",
+    "model": "Lohner GT6"
+  },
+  "76": {
+    "licensePlate": "AR 00969",
+    "model": "Lohner GT6"
+  },
+  "77": {
+    "licensePlate": "AR 00970",
+    "model": "Lohner GT6"
+  },
+  "0122": {
+    "licensePlate": "AR 00040",
+    "model": "DUEWAG GT6"
+  },
+  "0130": {
+    "licensePlate": "AR 00041",
+    "model": "DUEWAG GT6"
+  },
+  "0132": {
+    "licensePlate": "AR 00043",
+    "model": "DUEWAG GT6"
+  },
+  "1005": {
+    "licensePlate": "AR 00212",
+    "model": "DUEWAG M8S"
+  },
+  "1006": {
+    "licensePlate": "AR 00213",
+    "model": "DUEWAG M8S"
+  },
+  "1008": {
+    "licensePlate": "AR 00215",
+    "model": "DUEWAG M8S"
+  },
+  "1018": {
+    "licensePlate": "AR 00218",
+    "model": "DUEWAG M8S"
+  },
+  "1019": {
+    "licensePlate": "AR 00219",
+    "model": "DUEWAG M8S"
+  },
+  "1100": {
+    "licensePlate": "AR 00197",
+    "model": "Tatra T4D"
+  },
+  "1122": {
+    "licensePlate": "AR 00181",
+    "model": "Tatra T4D"
+  },
+  "1129": {
+    "licensePlate": "AR 00201",
+    "model": "Tatra T4D"
+  },
+  "1165": {
+    "licensePlate": "AR 00168",
+    "model": "Tatra T4D"
+  },
+  "1170": {
+    "licensePlate": "AR 00202",
+    "model": "Tatra T4D"
+  },
+  "1180": {
+    "licensePlate": "AR 00204",
+    "model": "Tatra T4D"
+  },
+  "1401": {
+    "licensePlate": "AR 01064",
+    "model": "Astra Imperio Arad"
+  },
+  "1402": {
+    "licensePlate": "AR 01066",
+    "model": "Astra Imperio Arad"
+  },
+  "1403": {
+    "licensePlate": "AR 01067",
+    "model": "Astra Imperio Arad"
+  },
+  "1504": {
+    "licensePlate": "AR 01071",
+    "model": "Astra Imperio Arad"
+  },
+  "1505": {
+    "licensePlate": "AR 01074",
+    "model": "Astra Imperio Arad"
+  },
+  "1506": {
+    "licensePlate": "AR 01075",
+    "model": "Astra Imperio Arad"
+  },
+  "1857": {
+    "licensePlate": "AR 00101",
+    "model": "DUEWAG GT8"
+  },
+  "1859": {
+    "licensePlate": "AR 00097",
+    "model": "DUEWAG GT8"
+  },
+  "1860": {
+    "licensePlate": "AR 00098",
+    "model": "DUEWAG GT8"
+  },
+  "1861": {
+    "licensePlate": "AR 00095",
+    "model": "DUEWAG GT8"
+  },
+  "1862": {
+    "licensePlate": "AR 00102",
+    "model": "DUEWAG GT8"
+  },
+  "1863": {
+    "licensePlate": "AR 00103",
+    "model": "DUEWAG GT8"
+  },
+  "1907": {
+    "licensePlate": "AR 01181",
+    "model": "Astra Imperio Arad"
+  },
+  "2008": {
+    "licensePlate": "AR 01178",
+    "model": "Astra Imperio Arad"
+  },
+  "2009": {
+    "licensePlate": "AR 01180",
+    "model": "Astra Imperio Arad"
+  },
+  "2010": {
+    "licensePlate": "AR 01179",
+    "model": "Astra Imperio Arad"
+  },
+  "2111": {
+    "licensePlate": "AR 01220",
+    "model": "Astra Imperio Civitas"
+  },
+  "2112": {
+    "licensePlate": "AR 01225",
+    "model": "Astra Imperio Civitas"
+  },
+  "2113": {
+    "licensePlate": "AR 01224",
+    "model": "Astra Imperio Civitas"
+  },
+  "2214": {
+    "licensePlate": "AR 01229",
+    "model": "Astra Imperio Civitas"
+  },
+  "2215": {
+    "licensePlate": "AR 01234",
+    "model": "Astra Imperio Civitas"
+  },
+  "2216": {
+    "licensePlate": "AR 01239",
+    "model": "Astra Imperio Civitas"
+  },
+  "2217": {
+    "licensePlate": "AR 01243",
+    "model": "Astra Imperio Civitas"
+  },
+  "2218": {
+    "licensePlate": "AR 01240",
+    "model": "Astra Imperio Civitas"
+  },
+  "2219": {
+    "licensePlate": "AR 01257",
+    "model": "Astra Imperio Civitas"
+  },
+  "2220": {
+    "licensePlate": "AR 01256",
+    "model": "Astra Imperio Civitas"
+  },
+  "2221": {
+    "licensePlate": "AR 01261",
+    "model": "Astra Imperio Civitas"
+  },
+  "2222": {
+    "licensePlate": "AR 01262",
+    "model": "Astra Imperio Civitas"
+  },
+  "2223": {
+    "licensePlate": "AR 01267",
+    "model": "Astra Imperio Civitas"
+  },
+  "2224": {
+    "licensePlate": "AR 01269",
+    "model": "Astra Imperio Civitas"
+  },
+  "2325": {
+    "licensePlate": "AR 01321",
+    "model": "Astra Imperio Civitas"
+  },
+  "2326": {
+    "licensePlate": "AR 01323",
+    "model": "Astra Imperio Civitas"
+  },
+  "2327": {
+    "licensePlate": "AR 01324",
+    "model": "Astra Imperio Civitas"
+  },
+  "2328": {
+    "licensePlate": "AR 01328",
+    "model": "Astra Imperio Arad"
+  },
+  "2429": {
+    "licensePlate": "AR 01340",
+    "model": "Astra Imperio Civitas"
+  },
+  "2430": {
+    "licensePlate": "AR 01345",
+    "model": "Astra Imperio Arad"
+  },
+  "2431": {
+    "licensePlate": "AR 01349",
+    "model": "Astra Imperio Arad"
+  },
+  "2432": {
+    "licensePlate": "AR 01355",
+    "model": "Astra Imperio Arad"
+  },
+  "2433": {
+    "licensePlate": "AR 01353",
+    "model": "Astra Imperio Arad"
+  },
+  "2434": {
+    "licensePlate": "AR 01352",
+    "model": "Astra Imperio Arad"
+  },
+  "2535": {
+    "licensePlate": "AR 1 3653",
+    "model": "Astra Imperio Civitas"
+  },
+  "2536": {
+    "licensePlate": "AR 1 3654",
+    "model": "Astra Imperio Civitas"
+  },
+  "2537": {
+    "licensePlate": "AR 1 3652",
+    "model": "Astra Imperio Civitas"
+  },
+  "2538": {
+    "licensePlate": "AR 1 3651",
+    "model": "Astra Imperio Civitas"
+  },
+  "2539": {
+    "licensePlate": "AR 1 3650",
+    "model": "Astra Imperio Civitas"
+  },
+  "2540": {
+    "licensePlate": "AR 1 3649",
+    "model": "Astra Imperio Civitas"
+  },
+  "2541": {
+    "licensePlate": "AR 1 3648",
+    "model": "Astra Imperio Civitas"
+  },
+  "2542": {
+    "licensePlate": "AR 1 3647",
+    "model": "Astra Imperio Civitas"
+  },
+  "2543": {
+    "licensePlate": "AR 1 3646",
+    "model": "Astra Imperio Civitas"
+  },
+  "2544": {
+    "licensePlate": "AR 1 01401",
+    "model": "Astra Imperio Civitas"
+  },
+  "2545": {
+    "licensePlate": "AR 1 01402",
+    "model": "Astra Imperio Civitas"
+  },
+  "2546": {
+    "licensePlate": "AR 1 01403",
+    "model": "Astra Imperio Civitas"
+  },
+  "2547": {
+    "licensePlate": "AR 1 01404",
+    "model": "Astra Imperio Civitas"
+  },
+  "2548": {
+    "licensePlate": "AR 1 01405",
+    "model": "Astra Imperio Civitas"
+  },
+  "2549": {
+    "licensePlate": "AR 1 01406",
+    "model": "Astra Imperio Civitas"
+  },
+  "2550": {
+    "licensePlate": "AR 1 01407",
+    "model": "Astra Imperio Civitas"
+  },
+  "2651": {
+    "licensePlate": "AR 1 01408",
+    "model": "Astra Imperio Civitas"
+  },
+  "2652": {
+    "licensePlate": "AR 1 01409",
+    "model": "Astra Imperio Civitas"
+  },
+  "2653": {
+    "licensePlate": "AR 1 01410",
+    "model": "Astra Imperio Civitas"
+  },
+  "035": {
+    "licensePlate": "AR 00052",
+    "model": "DUEWAG GT6ZR"
+  },
+  "043": {
+    "licensePlate": "AR 00051",
+    "model": "DUEWAG GT6ZR"
+  },
+  "053": {
+    "licensePlate": "AR 00057",
+    "model": "DUEWAG GT6ZR"
+  },
+  "258": {
+    "licensePlate": "AR 00083",
+    "model": "DUEWAG GT6"
+  },
+  "1014": {
+    "licensePlate": "AR 00046",
+    "model": "DUEWAG ET6"
+  },
+  "1054": {
+    "licensePlate": "AR 00047",
+    "model": "DUEWAG EB6"
+  },
+  "1189": {
+    "licensePlate": "AR 00163",
+    "model": "Tatra T4D"
+  },
+  "1864": {
+    "licensePlate": "AR 00099",
+    "model": "DUEWAG GT8"
+  }
+  }
+}

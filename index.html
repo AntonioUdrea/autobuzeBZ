@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Arad Bus Tracker</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <h1>Arad Bus Tracker</h1>
+
+    <div class="controls">
+
+      <label>
+        Operator:
+        <select id="operatorFilter">
+          <option value="all">CTP Arad</option>
+        </select>
+      </label>
+
+      <label>
+        Route:
+        <select id="routeFilter">
+          <option value="all">All routes</option>
+        </select>
+      </label>
+
+      <select id="modelFilter">
+        <option value="all">All models</option>
+      </select>
+
+      <select id="unknownFilter">
+        <option value="all">All vehicles</option>
+        <option value="any">Unknown plate or model</option>
+        <option value="plate">Unknown plate only</option>
+        <option value="model">Unknown model only</option>
+      </select>
+
+      <button id="refreshButton">
+        Refresh
+      </button>
+
+    </div>
+
+    <div id="status">
+      Loading...
+    </div>
+  </header>
+
+  <main>
+
+    <div id="map"></div>
+
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
+  </script>
+
+  <script src="app/common.js"></script>
+  <script src="app/app.js"></script>
+
+</body>
+
+</html>

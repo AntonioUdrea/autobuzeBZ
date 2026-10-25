@@ -1,0 +1,88 @@
+{
+  "CTP Arad": {
+    "30": {
+      "indicative": "GEN4+LTB"
+    },
+    "41": {
+      "indicative": "7A"
+    },
+    "42": {
+      "indicative": "18A"
+    },
+    "2": {
+      "indicative": "19"
+    },
+    "3": {
+      "indicative": "21"
+    },
+    "4": {
+      "indicative": "31"
+    },
+    "5": {
+      "indicative": "39B"
+    },
+    "6": {
+      "indicative": "41"
+    },
+    "7": {
+      "indicative": "46"
+    },
+    "8": {
+      "indicative": "48"
+    },
+    "9": {
+      "indicative": "49"
+    },
+    "11": {
+      "indicative": "1"
+    },
+    "12": {
+      "indicative": "1b"
+    },
+    "13": {
+      "indicative": "3"
+    },
+    "14": {
+      "indicative": "6"
+    },
+    "15": {
+      "indicative": "7"
+    },
+    "21": {
+      "indicative": "15"
+    },
+    "23": {
+      "indicative": "16"
+    },
+    "25": {
+      "indicative": "18b"
+    },
+    "36": {
+      "indicative": "52"
+    },
+    "26": {
+      "indicative": "54"
+    },
+    "10": {
+      "indicative": "60"
+    },
+    "28": {
+      "indicative": "IAS Aradul Nou"
+    },
+    "29": {
+      "indicative": "IAS Muresul"
+    },
+    "27": {
+      "indicative": "Sântoma"
+    },
+    "31": {
+      "indicative": "Raza de Soare"
+    },
+    "39": {
+      "indicative": "GH - Pod"
+    },
+    "40": {
+      "indicative": "VL - Pod"
+    }
+  }
+}
