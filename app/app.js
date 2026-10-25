@@ -30,7 +30,7 @@ const $ = id => document.getElementById(id);
 const map = L.map("map").setView([45.1508627,26.83523], 13);
 
 const markerBus = L.icon({
-  iconUrl: "../images/markerBus.png",
+  iconUrl: "/images/markerBus.png",
   iconSize: [75, 65],
   iconAnchor: [35, 32],
   popupAnchor: [0, -32]
